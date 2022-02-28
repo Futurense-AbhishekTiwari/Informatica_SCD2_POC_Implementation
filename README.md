@@ -15,5 +15,13 @@ The ICICI bank want to use the customer data to check the eligibility of getting
 
 ## Target data in Oracle after the update
 
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/100192236/156032313-2b190df4-ea7e-49c4-a87b-2a47684f5173.png">
+
+
+## ETL Diagram
+
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/100192236/156032789-e8b8510c-ae95-49ee-aa92-e0c3a5342f87.png">
+
+
 
 
